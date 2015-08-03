@@ -1,6 +1,8 @@
 Save Format v3.0(19990112)
-@begin Targets
- 0 "closedown-sdk-example.pbt";
+@begin Unchecked
 @end;
-DefaultTarget "closedown-sdk-example.pbt";
-DefaultRemoteTarget "closedown-sdk-example.pbt";
+@begin Targets
+ 0 "closedown-example-sdk.pbt";
+@end;
+DefaultTarget "closedown-example-sdk.pbt";
+DefaultRemoteTarget "closedown-example-sdk.pbt";
